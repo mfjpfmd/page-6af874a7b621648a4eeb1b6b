@@ -1,0 +1,74 @@
+{
+  "version": 2,
+  "template_version": "3a528c553883e59d7cfa",
+  "page_size": 20,
+  "site_id": "291ec94b099ed76e72110862",
+  "owner": "mfjpfmd",
+  "repo": "page-6af874a7b621648a4eeb1b6b",
+  "title": "Tffy",
+  "mode": "repo",
+  "articles": [
+    {
+      "id": "6af874a7b621648a4eeb1b6b",
+      "a": "Tffy",
+      "b": "",
+      "entity": "Tffy",
+      "brand": "Tffy",
+      "separator": "",
+      "path": "index.html",
+      "hash": "428a98e33065335cbb818c16df26079050fad51c64c48b462539814489e448e6",
+      "content": {
+        "keyword1": "Tffy",
+        "keyword2": "",
+        "primary_entity": "Tffy",
+        "plans": [],
+        "clients": [],
+        "_offline": false,
+        "content": {
+          "AI_HERO_INTRO": "Tffy：按清单核对用途、档位与使用步骤。页面只陈述可核对事项，不附加未证实承诺。",
+          "AI_DESCRIPTION": "Tffy：按清单核对用途、档位与使用步骤。页面只陈述可核对事项，不附加未证实承诺。"
+        },
+        "_brand_page": {
+          "version": 3,
+          "body": "<style>\n*{box-sizing:border-box;margin:0;padding:0}\nhtml,body{background:#fff;color:#111;font-family:Georgia,\"Songti SC\",\"Noto Serif SC\",serif;line-height:1.55}\na{color:#ff4d00;text-decoration:none;border-bottom:1px solid #ff4d00}\nmain{display:block}\n.hero{min-height:100vh;padding:6vw 5vw 8vw;background:#fff;border-bottom:12px solid #ff4d00;display:flex;flex-direction:column;justify-content:flex-end}\n.hero h1{font-size:clamp(4.2rem,28vw,18rem);line-height:.82;letter-spacing:-.06em;font-weight:800;color:#ff4d00;word-break:break-all;text-transform:uppercase}\n.hero p{max-width:36rem;margin-top:1.5rem;font-size:1.05rem}\n.jumps{margin-top:1.4rem;display:flex;flex-wrap:wrap;gap:.6rem 1.2rem;font-size:.9rem}\n.wrap{padding:3.2rem 5vw;max-width:1100px;margin:0 auto}\nh2{font-size:1.7rem;margin-bottom:1rem;color:#111}\nh3{font-size:1.1rem;margin:.8rem 0 .4rem}\n.ticket{border:2px dashed #ff4d00;padding:1.1rem 1.2rem;margin:1rem 0;background:#fff}\n.ticket strong{color:#ff4d00}\ntable{width:100%;border-collapse:collapse;font-size:.92rem}\nth,td{border:1px dashed #ff4d00;padding:.75rem .6rem;text-align:left;vertical-align:top}\nth{background:#fff5ef}\n.mark{display:inline-block;border:2px dashed #ff4d00;padding:.05rem .4rem;font-size:.75rem;margin-left:.3rem}\n.faqgrid{display:grid;grid-template-columns:1fr 1fr;gap:1.2rem 2rem}\n.faqgrid article{border:2px dashed #ff4d00;padding:1rem}\nol.steps{padding-left:1.2rem}\nol.steps li{margin:.45rem 0}\n.note{font-size:.88rem;color:#333;margin-top:.8rem}\n@media(max-width:720px){\n.faqgrid{grid-template-columns:1fr}\n.hero h1{font-size:clamp(3.4rem,32vw,8rem)}\ntable{font-size:.82rem}\n}\n</style><main>\n<section class=\"hero\">\n<h1>Tffy</h1>\n<p>按清单核对：这是什么、谁适合读、档位怎么比、软件从哪拿、问题怎么排。没有对外公布的主体说明、性能数字或评价，本页不补写。</p>\n<p class=\"jumps\">\n<a href=\"#how\">使用说明</a>\n<a href=\"#plans\">档位对照</a>\n<a href=\"#clients\">客户端</a>\n<a href=\"#faq\">常见问题</a>\n</p>\n</section>\n\n<section class=\"wrap\" id=\"how\">\n<h2>使用说明（按条执行）</h2>\n<div class=\"ticket\">\n<strong>开工前</strong>\n<ol class=\"steps\">\n<li>确认你要处理的是文档、清单或内部协作，而不是未经验证的网络中继承诺。</li>\n<li>记下档位名称与价格数字，付款前自行对照账单，不依赖口头转述。</li>\n<li>客户端以你本机已安装的通用工具为准；本页不提供下载地址。</li>\n</ol>\n</div>\n<div class=\"ticket\">\n<strong>进行中</strong>\n<ol class=\"steps\">\n<li>先读档位对照表，再决定月付或年付口径。</li>\n<li>设备数量按表内数字理解：基础 3、旗舰 5、团队 20，超出需自行减载。</li>\n<li>工单与客户经理仅出现在对应档位文字里，不视为全员默认服务。</li>\n</ol>\n</div>\n<div class=\"ticket\">\n<strong>收尾</strong>\n<ol class=\"steps\">\n<li>保存你自己的账号记录与发票截图。</li>\n<li>流量额度以套餐名称旁的数字为准：100 / 300 / 1000（单位 GB/月）。</li>\n<li>遇争议以你持有的订单凭证为准，本页不声明退款规则。</li>\n</ol>\n</div>\n</section>\n\n<section class=\"wrap\" id=\"plans\">\n<h2>档位对照</h2>\n<p class=\"note\">下列价格与条目来自参考档位整理，仅作页面展示，不构成可下单链接。</p>\n<table>\n<thead>\n<tr>\n<th>项目</th>\n<th>基础版</th>\n<th>旗舰版 <span class=\"mark\">对照推荐位</span></th>\n<th>团队版</th>\n</tr>\n</thead>\n<tbody>\n<tr>\n<td>月价</td>\n<td>¥15/月</td>\n<td>¥35/月</td>\n<td>¥85/月</td>\n</tr>\n<tr>\n<td>年价口径</td>\n<td>按年付仅需 ¥150/年</td>\n<td>按年付仅需 ¥350/年</td>\n<td>按年付仅需 ¥850/年</td>\n</tr>\n<tr>\n<td>额度</td>\n<td>每月 100GB 流量额度</td>\n<td>每月 300GB 流量额度</td>\n<td>每月 1000GB 流量额度</td>\n</tr>\n<tr>\n<td>同时在线设备</td>\n<td>3 台</td>\n<td>5 台</td>\n<td>20 台</td>\n</tr>\n<tr>\n<td>权益清单</td>\n<td>基础媒体条目、普通线路池（名称沿用参考稿，不作线路实测声明）</td>\n<td>全节点媒体条目、专线游戏优化条目、7x24 优先工单（名称沿用参考稿）</td>\n<td>高带宽条目、定制路由条目、专属客户经理（名称沿用参考稿）</td>\n</tr>\n</tbody>\n</table>\n</section>\n\n<section class=\"wrap\" id=\"clients\">\n<h2>客户端</h2>\n<div class=\"ticket\">\n<strong>可核对事项</strong>\n<p>参考列表为空。因此：不写系统版本、不写商店链接、不写安装包文件名。</p>\n<p>自行准备：系统自带浏览器、你已在用的笔记或表格软件、以及能保存账号的密码管理习惯。</p>\n<p>地址栏：无已确认下载源，链接保持为空处理，页面内跳转用页内锚点。</p>\n</div>\n</section>\n\n<section class=\"wrap\" id=\"faq\">\n<h2>常见问题</h2>\n<div class=\"faqgrid\">\n<article>\n<h3>Tffy 是公司还是产品名？</h3>\n<p>页面只使用品牌名 Tffy。没有提供的主体、执照、办公室信息不补写。</p>\n</article>\n<article>\n<h3>价格能否直接付款？</h3>\n<p>表内数字用于对照。本页没有表单、没有支付接口、没有商店地址。</p>\n</article>\n<article>\n<h3>年付怎么算？</h3>\n<p>基础 ¥150、旗舰 ¥350、团队 ¥850，均为参考稿中的年付口径，按十二条月价核对即可。</p>\n</article>\n<article>\n<h3>没有客户端怎么办？</h3>\n<p>先完成你本机已有工具的清单，再决定是否另寻来源。本页不给未验证链接。</p>\n</article>\n<article>\n<h3>流量用完会怎样？</h3>\n<p>未提供超量规则。按清单：停用或改档，以你订单文本为准。</p>\n</article>\n<article>\n<h3>团队版适合几人？</h3>\n<p>按设备上限 20 台估算席位，不按人头承诺。</p>\n</article>\n</div>\n</section>\n</main>",
+          "hash": "1065aeefabfd0c10a1890fca29a98d2ae2d50c9ebc05b061835faf91613f7fd8",
+          "seo": {
+            "title": "Tffy — 清单式说明与会员档位一览",
+            "keywords": "Tffy, Tffy说明, Tffy会员, Tffy客户端, Tffy常见问题",
+            "description": "Tffy：按清单核对用途、档位与使用步骤。页面只陈述可核对事项，不附加未证实承诺。"
+          },
+          "provider": "grok",
+          "model": "grok-4-6",
+          "design": {
+            "no": "7385",
+            "hero": "2 超大字号品牌名铺满首屏的海报式",
+            "palette": "6 纯白配高饱和橙",
+            "nav": "6 无导航，用区块内的跳转链接",
+            "card": "6 虚线框票据风格",
+            "plans_view": "1 横向对比表格",
+            "faq_view": "1 双栏问答",
+            "tone": "6 清单式务实口吻",
+            "order": "首屏优先，其余区块由 AI 根据已选构图和信息关系安排"
+          }
+        }
+      }
+    }
+  ],
+  "domain": {
+    "apex": "kkkhi.cn",
+    "host": "p-94d7755772.kkkhi.cn",
+    "kind": "subdomain",
+    "candidate_roots_ref": "subdomain_roots:91e741dce7c147d9ce91af6f84daa678dae755807d903b04925261e0a3a8d804",
+    "prefix_mode": "auto"
+  },
+  "friendlinks": [],
+  "file_hashes": {
+    "index.html": "cb09279e5978ec6de0f94e96f4014fb57a9aaaabc5c669331cf5b734831b900f",
+    "sitemap.xml": "97eeb1d038f796291874c3c6f6f0449e461df29d1c8aa93f1821f6379fe466bb",
+    ".nojekyll": "12ae32cb1ec02d01eda3581b127c1fee3b0dc53572ed6baf239721a03d82e126",
+    "CNAME": "2c1cacfd782eea336ccd9840f378bb4e4561d3045606fed945bb0055e96b40c7",
+    "robots.txt": "420f4115409aa9386670ad25200b8267740fddb17cbf5fe317a14bbadd19e339",
+    "d70da93f3d8577ec3b69e7489d0006fc.txt": "9ce74169dd3aab953a3bc0b8f2a03451fc10123fc051f5b5ebde18f5a51e3e85"
+  },
+  "revision": "9b672856fcc32ac0b48b92bb4c0fb2fd32cb5c943b4283b50b72d945bca16427"
+}

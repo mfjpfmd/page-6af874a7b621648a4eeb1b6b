@@ -1,0 +1,3 @@
+User-agent: *
+Allow: /
+Sitemap: https://p-94d7755772.kkkhi.cn/sitemap.xml
